@@ -33,10 +33,10 @@
 
 <h2>Featured Projects</h2>
 <p>
-  <strong>PDF2Word</strong> – High-concurrency Go application with Next.js SSR previews.  
-  <strong>Goyield App</strong> – LSTM-powered crop prediction app trained on 40 years of data.  
-  <strong>Agentforce AI Support</strong> – AI chatbot reducing response time by 60%.  
-  <strong>Marketing Cloud Automation</strong> – Increased conversion rates by 35%.  
+  <strong>PDF2Word</strong> – High-concurrency Go application with Next.js SSR previews.<br/>  
+  <strong>Goyield App</strong> – LSTM-powered crop prediction app trained on 40 years of data.  <br/>  
+  <strong>Agentforce AI Support</strong> – AI chatbot reducing response time by 60%.  <br/>  
+  <strong>Marketing Cloud Automation</strong> – Increased conversion rates by 35%.  <br/>  
 </p>
 
 <h2>Certifications</h2>
