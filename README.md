@@ -12,7 +12,7 @@
   Node.js | Express.js | FastAPI | Go | Apex  
   <br/>
   <img src="https://img.shields.io/badge/Databases-9b59b6?style=for-the-badge&labelColor=1f2d3d&color=9b59b6&logo=postgresql&logoColor=white"/>  
-  PostgreSQL | MySQL | MongoDB | Firestore | Redis  
+  PostgreSQL | MySQL | MongoDB | Firestore | Redis  | Azure 
   <br/>
   <img src="https://img.shields.io/badge/Salesforce-f39c12?style=for-the-badge&labelColor=1f2d3d&color=f39c12&logo=salesforce&logoColor=white"/>  
   Sales | Service | Marketing | Non-Profit Clouds  
@@ -21,7 +21,7 @@
   Postman | PowerBI | Git | JMeter  
   <br/>
   <img src="https://img.shields.io/badge/ML%20%26%20AI-c0392b?style=for-the-badge&labelColor=1f2d3d&color=c0392b&logo=python&logoColor=white"/>  
-  Python | LangChain | RAGs | LSTM Models | Data Science  
+  Python | LangChain | RAGs | LSTM Models | Data Science  | RNNs | YoloV4 
 </p>
 
 <h2>Highlights</h2>
